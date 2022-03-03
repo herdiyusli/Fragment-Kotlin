@@ -4,8 +4,11 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/heruy/AndroidStudioProjects/MyFlexibleFragment/app/src/main/res/layout/activity_main.xml" value="0.12771739130434784" />
+        <entry key="..\:/Users/heruy/AndroidStudioProjects/MyFlexibleFragment/app/src/main/res/layout/activity_profile.xml" value="0.12771739130434784" />
         <entry key="..\:/Users/heruy/AndroidStudioProjects/MyFlexibleFragment/app/src/main/res/layout/fragment_category.xml" value="0.12771739130434784" />
+        <entry key="..\:/Users/heruy/AndroidStudioProjects/MyFlexibleFragment/app/src/main/res/layout/fragment_detail_category.xml" value="0.22" />
         <entry key="..\:/Users/heruy/AndroidStudioProjects/MyFlexibleFragment/app/src/main/res/layout/fragment_home.xml" value="0.12771739130434784" />
+        <entry key="..\:/Users/heruy/AndroidStudioProjects/MyFlexibleFragment/app/src/main/res/layout/fragment_option_dialog.xml" value="0.12771739130434784" />
       </map>
     </option>
   </component>
